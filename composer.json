@@ -1,0 +1,14 @@
+{
+    "name": "githoober/nexus3-test-project",
+    "type": "library",
+    "description": "A test project to be used with Nexus 3 Manager",
+    "require": {
+        "monolog/monolog": "^2.7",
+    },
+    "authors": [
+        {
+            "name": "Oleg Namaka",
+            "email": "olrona@gmail.com"
+        }
+    ]
+}
