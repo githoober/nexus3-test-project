@@ -1,3 +1,3 @@
 <?php
 
-echo "Hellof from github 1\n";
+echo "Hello from github 2\n";
